@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AgendaCorte</string>
+    
+    <!-- Welcome Screen -->
+    <string name="welcome_title">Bem-vindo ao\nAgendaCorte</string>
+    <string name="btn_client">Sou Cliente</string>
+    <string name="btn_barber">Sou Barbeiro</string>
+
+    <!-- Client Screen -->
+    <string name="client_title">Horários Disponíveis</string>
+    <string name="btn_book">Agendar</string>
+    <string name="empty_available_times">Nenhum horário disponível</string>
+    <string name="booking_confirmation_title">Confirmar Agendamento</string>
+    <string name="booking_confirmation_message">Deseja agendar o horário %1$s com o barbeiro %2$s?</string>
+    <string name="booking_success">Agendamento realizado com sucesso!</string>
+    <string name="booking_error">Erro ao agendar: %1$s</string>
+
+    <!-- Barber Screen -->
+    <string name="barber_title">Meus Agendamentos</string>
+    <string name="btn_add_time">Adicionar Horário</string>
+    <string name="empty_appointments">Nenhum agendamento encontrado</string>
+    <string name="add_time_title">Adicionar Horário</string>
+    <string name="barber_name_hint">Nome do Barbeiro</string>
+    <string name="barber_name_required">Nome do barbeiro é obrigatório</string>
+    <string name="add_time_success">Horário adicionado com sucesso!</string>
+    <string name="add_time_error">Erro ao adicionar horário: %1$s</string>
+
+    <!-- Common -->
+    <string name="loading_error">Erro ao carregar dados: %1$s</string>
+    <string name="btn_confirm">Confirmar</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="btn_next">Próximo</string>
+</resources>
