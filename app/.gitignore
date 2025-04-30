@@ -1,0 +1,48 @@
+# Diretórios de build
+.gradle/
+.idea/
+.build/
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Arquivos de log e cache
+*.log
+*.hprof
+*.lock
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos locais e de usuário
+local.properties
+*.iml
+
+# Configurações do Android Studio
+*.iws
+*.ipr
+*.jks
+
+# Arquivos gerados
+*.apk
+*.ap_
+*.dex
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.swp
+*.orig
+*.bak
+
+# Diretório do Firebase
+.firebase/
+
+# Diretório de crashlytics
+crashlytics-build.properties
+
+# Outras proteções
+*.keystore
+
